@@ -1,6 +1,6 @@
 # REST version of Spring PetClinic Sample Application
 
-This project is a fork of [spring-petclinic/spring-petclinic-rest](https://github.com/spring-petclinic/spring-petclinic-rest).  I am 
+This project is based on [spring-petclinic/spring-petclinic-rest](https://github.com/spring-petclinic/spring-petclinic-rest).  I am 
 using this project as a way to familiarize myself with Spring Boot.  It is not meant for general consumption. 
 
 For specific set up details, please see the [spring-petclinic/spring-petclinic-rest](https://github.com/spring-petclinic/spring-petclinic-rest) 
