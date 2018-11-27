@@ -8,8 +8,8 @@ README. After reviewing and setting up your environment according to the source 
 
 ## Running petclinic locally
 ```
-	git clone https://github.com/trojas/spring-petclinic-rest.git
-	cd spring-petclinic-rest
+	git clone https://github.com/trojas/pet-clinic-service.git
+	cd pet-clinic-service
 	./mvnw spring-boot:run
 ```
 
